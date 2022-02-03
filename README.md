@@ -1,4 +1,4 @@
-### Eu sou Alex Sales👋Sejam bem vindos! 
+### Olá! Sejam bem vindos ao meu github  
 
 - 🔭 Eu pretendo me tornar um desenvolvedor front-end
 - 🌱 Estudando acessibilidade web
