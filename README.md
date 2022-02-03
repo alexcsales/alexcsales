@@ -1,4 +1,5 @@
-### Olá! Eu sou Alex Sales👋
+### Sejam bem vindos! 
+### Eu sou Alex Sales👋
 
 - 🔭 Eu pretendo me tornar um desenvolvedor front-end
 - 🌱 Estudando acessibilidade web
