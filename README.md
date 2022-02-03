@@ -5,9 +5,8 @@
 - 
 - 🌱 área de enteresse: Front-End e Back-End
 - 🌱 Estudando atualmente: acessibilidade web
-
+<img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <div align="center">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
   <a href="https://github.com/alexcsales">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexcsales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcsales&layout=compact&langs_count=7&theme=dark"/>
