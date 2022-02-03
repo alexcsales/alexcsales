@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938625031397855306/938753102570483732/download20220204080924.png">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938625031397855306/938756283371249674/Untitled_design_2.gif">
 </div>
 </div>
   
