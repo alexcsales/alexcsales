@@ -2,7 +2,7 @@
 
 - 🔭 estudante de programação com foco em Front-End
 - 🔭 atualmente não trabalho na área
-- <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+- 
 - 🌱 área de enteresse: Front-End e Back-End
 - 🌱 Estudando atualmente: acessibilidade web 
 
@@ -16,6 +16,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 </div>
 </div>
   
