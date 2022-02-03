@@ -1,7 +1,10 @@
 ### Olá! Sejam bem vindos ao meu github  
 
-- 🔭 Eu pretendo me tornar um desenvolvedor front-end
-- 🌱 Estudando acessibilidade web
+- 🔭 estudante de programação com foco em Front-End
+- 🔭 atualmente não trabalho na área
+- 
+- 🌱 área de enteresse: Front-End e Back-End
+- 🌱 Estudando atualmente: acessibilidade web
 
 <div align="center">
   <a href="https://github.com/alexcsales">
