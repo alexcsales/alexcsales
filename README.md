@@ -2,10 +2,10 @@
 
 - 🔭 estudante de programação com foco em Front-End
 - 🔭 atualmente não trabalho na área
-- 
+- <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 - 🌱 área de enteresse: Front-End e Back-End
-- 🌱 Estudando atualmente: acessibilidade web
-<img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+- 🌱 Estudando atualmente: acessibilidade web 
+
 <div align="center">
   <a href="https://github.com/alexcsales">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alexcsales&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
