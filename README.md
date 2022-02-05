@@ -2,7 +2,7 @@
 
 - 📚 _estudante de programação_
 - 💻 _área de enteresse: Front-End e Back-End_
-- ✏️ _Estudando atualmente: Flexbox_ 
+- ✏️ _Estudando atualmente: Layouts Responsivos_ 
 
 <div align="center">
   <a href="https://github.com/alexcsales">
