@@ -1,7 +1,7 @@
 ### Olá👋 Sejam bem vindos ao meu github  
 
-- 📚 _estudante de programação_
-- 💻 _área de enteresse: Front-End e Back-End_
+- 📚 _Estudante de programação_
+- 💻 _Área de interesse: Front-End e Back-End_
 - ✏️ _Estudando atualmente: Layouts Responsivos_ 
 
 <div align="center">
