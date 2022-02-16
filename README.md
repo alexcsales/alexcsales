@@ -2,7 +2,7 @@
 
 - 📚 _Estudante de programação_
 - 💻 _Área de interesse: Front-End e Back-End_
-- ✏️ _Estudando atualmente: CSS grid e Javascript_ 
+- ✏️ _Estudando atualmente: CSS grid e Acessibilidade web_ 
 
 <div align="center">
   <a href="https://github.com/alexcsales">
