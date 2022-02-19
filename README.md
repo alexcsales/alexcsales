@@ -4,7 +4,7 @@
 
 - 📚 _Estudante de programação_
 - 💻 _Área de interesse: Front-End e Back-End_
-- ✏️ _Estudando atualmente: CSS grid e Orientação a Objetos com Js_ 
+- ✏️ _Estudando atualmente: Acessibilidade web e Orientação a Objetos com Js_ 
 
   <a href = "mailto:alexcsalesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsales-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
