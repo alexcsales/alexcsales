@@ -1,7 +1,5 @@
 ### Olá👋 Sejam bem vindos ao meu github  
 
-<img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/938625031397855306/941348369287221268/Untitled_design_2.gif">
-
 - 📚 _Estudante de programação_
 - 💻 _Área de interesse: Front-End e Back-End_
 - ✏️ _Estudando atualmente: SEO e React_ 
