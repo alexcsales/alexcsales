@@ -1,8 +1,8 @@
-### Olá👋 Sejam bem vindos ao meu github  
+### Hi👋 Welcome to my github 
 
-- 📚 _Estudante de programação_
-- 💻 _Área de interesse: Front-End e Back-End_
-- ✏️ _Estudando atualmente: SEO e React_ 
+- 📚 _Front-End developer_
+- 💻 _Area of interest: Front-End e Back-End_
+- ✏️ _Currently studying: SEO and React_ 
 
   <a href = "mailto:alexcsalesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsales-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
