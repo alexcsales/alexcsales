@@ -1,4 +1,4 @@
-### Olá👋 Bem vindo ao meu github 
+### Olá👋 Bem-vindo ao meu github 
 
 - 📚 _Desenvolvedor front-end_
 - 💻 _Área de interesse: Front-End e Back-End_
